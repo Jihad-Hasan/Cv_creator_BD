@@ -562,7 +562,7 @@ button:hover::before,
 }
 
 .feature {
-  background-color: #f3f4f6;
+  background-color: #fafafa;
   text-align: center;
 }
 
@@ -643,7 +643,7 @@ button:hover::before,
 }
 
 .faq {
-  background-color: #fafafa;
+  background-color: #f3f4f6;
 }
 
 .active {
@@ -719,7 +719,7 @@ button:hover::before,
 }
 
 .articles {
-  background-color: #f3f4f6;
+  background-color: #fafafa;
 }
 
 .article__grid {
